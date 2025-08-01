@@ -1,6 +1,7 @@
 /* Reset and base styles */
 body {
   margin: 0;
+  padding: 20px;  
   font-family: sans-serif;
   background-color: white;
   color: black;
@@ -23,3 +24,16 @@ body {
   margin: 0;
   font-size: 2rem;
 }
+
+.container {
+    padding: 20px 40px;  /* 上下20px，左右40px */
+}
+
+h1, h2, h3 {
+    padding-bottom: 10px;
+}
+
+.section {
+    padding: 30px;
+}
+
